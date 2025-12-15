@@ -54,3 +54,8 @@ policies:
   - name: JSONSchemaGuardrail
     version: v0.1.0
     filePath: ./json-schema-guardrail/v0.1.0
+
+  # SemanticPromptGuard Policy
+  - name: SemanticPromptGuard
+    version: v1.0.0
+    filePath: ./semantic-prompt-guard/v1.0.0
